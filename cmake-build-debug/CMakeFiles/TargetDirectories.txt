@@ -1,0 +1,3 @@
+/Users/romanivanov/МГТУ/ИУК4-32Б 2023/Типы и структуры данных/Доклад/Project/cmake-build-debug/CMakeFiles/Project.dir
+/Users/romanivanov/МГТУ/ИУК4-32Б 2023/Типы и структуры данных/Доклад/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/romanivanov/МГТУ/ИУК4-32Б 2023/Типы и структуры данных/Доклад/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
